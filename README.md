@@ -6,6 +6,7 @@
 \____ |/__/\_ \ |__|  |__|  (____  /
      \/      \/                  \/ 
 
+-- I build cloud computing infrastructure and systems for Big Data and AI --
 
 * url: https://dxtra.github.io/
 
